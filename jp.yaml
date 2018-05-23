@@ -1,0 +1,195 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+charity.donated: 寄附額
+charity.more-info:IoTeXのチャリティープログラムの詳細
+charity.question:どのようにIoTeXを知りましたか？どうしてIoTeX に興味を持ちましたか？
+charity.share-message: あなたの親切な行為を共有しましょう！
+charity.to: へ
+charity.tweet.summary.description: >-
+  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
+  thank-you gift, now we put your good deed on IoTeX website!あなたの寛大なお気持ちに感謝します。
+  謝礼として一回１６，０００ポイントを付与するほかに、あなたの善き行いをIoTeXのウェブサイトに掲載致します。
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title:あなたはIoTeXの表彰ページに掲載されています！
+doraHacks: DoraHacks
+claim.btn: ポイントの請求
+contact.btn: お問い合わせ
+contact.desc: ご質問はsupport@iotex.io まで。IoTeXの専門家がお答えします。 
+contact.title: 今後も連絡を取る
+ethFoundation: イーサリアム財団
+hall-of-fame.badge-section.title: IoTeX 第１回チャリティープログラム — イーサリアム財団
+hall-of-fame.badge-section.unicorn.desc: >
+  イーサリアムは過去４年間にわたってブロックチェーンに革命をもたらして、ブロックチェーンという言葉を最新のバズワードにしました。業界のリーダーとして、イーサリアムは<a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">助成金</a>を提供することによって、研究者や開発者たちの後押しをして、様々な最先端の取り組みをしてもらい、ブロックチェーン全体のエコシステムを支援してきました。IoTeXは精密な研究と共同開発を通じて業界全体を前進させることができると強く信じています。世界を驚かせるには才能豊かな人たちやこの上なく聡明な頭脳が必要です。みなさんもささやかながら非常に強力に私たちの理念に協力できる方法があります。それはイーサリアム財団にETHを寄附してブロックチェーン研究の資金調達を支援することです。参加方法の詳細は、公式の<a target="_blank"
+  href="https://t.me/IoTeXGroup">テレグラム・グループ</a> に参加して、ピン留めされたメッセージを随時お読みください。詳しくは<a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756"> IoTeX 第１回チャリティープログラム </a>をクリックしてください
+hall-of-fame.search.label: あなたのhashid、またはお好きな表示名で検索
+hall-of-fame.thank-you.message: >
+  クラウドソーシングは、特定のチャリティーを目的とした資金の調達方法としては、新しいものではありません。
+  しかしIoTeXは、それをスマートコントラクトを通じて行い、仮想通貨の熱狂（ハイプ）を慈善目的へと方向転換をさています。
+  これから数ヶ月で、IoTeXのコミュニティー報酬プログラムの一環として、”現実の世界をブロックごとに繋いでいく”というIoTeXの目標に
+  合致する幾つかのチャリティープログラムを選んでいくつもりです。IoTeXの信念は、コミュニティーと共に成長しながら、
+  現実の世界をブロックごとに繋いでいくことです。それはとても野心的な目標ですが、強いチームと協力的なコミュニティーがあれば、達成できます。
+  コミュニティーと共にブロックチェーンのエコシステムの開発に向けて未開の領域を切り開いていくために、IoTeXはコミュニティーの皆さんに
+  この私たちの初志を理解して、その理念の推進に協力していただきたいと願っています。
+hall-of-fame.title: IoTeXのチャリティー
+home.about.inno.0.desc.keep: >-
+  IoT用に設計された、即時のファイナリティーと低い遅延率を誇るエコ・フレンドリーな数百万個のノードをサポート。
+home.about.inno.0.title.keep: 速い合意メカニズム
+home.about.inno.1.desc.keep: >-
+  プラズマのように、状態データをルート・チェインから引き離してプライバシーや拡張性や相互運用性をさらに向上させる;価値とデータの革新的なクロス・チェーン転送
+home.about.inno.1.title.keep: ブロックチェーンの中のブロックチェーン
+home.about.inno.2.desc.keep: >-
+  軽量ステルレスアドレスや一定サイズのリング署名などの革新的な暗号スキームを用いて、プライバシーを最大化する
+home.about.inno.2.title.keep: 内蔵のプライバシー保護技術
+home.about.inno.3.desc.keep: ‘IoTのための非中央集権型自動化組織、ロボットの世界ではコードは法律である
+home.about.inno.3.title.keep: デバイス自動調整機能
+home.about.sol.desc1: >-
+  IoTは、急速な進化を遂げていますが、スケーラビリティが低く、運用コストが高くて、プライバシーの懸念、機能的価値が不足しているためにまだ社会一般にはほとんど利用されてなく、新規ユーザーをエコシステムへ惹きつける”キラーアプリ”に欠けています。
+home.about.sol.desc2: >-
+ IoTeXは、トークン経済をIoTの世界に導入することによって、その問題に取り組んでいる。私たちは、コミュニティーの努力及び仮想通貨のインセンティブこそが、IoT界のイノベーションを吹き起こす２つの鍵となる力であることを強く信じています。つまり、IoTeXは、新しいIoTアプリケーションやエコシステムを支援する高いスケーラビリティー（拡張性）やプライバシーや隔離性能や開発性能を備えた、次世代型のIoT向けのブロックチェーン・プラットフォームである。
+home.decentralized-protocol: IoTのための非中央集権型ネットワーク
+home.dustin.desc.keep: >-
+   南加州大学にてデータセキュリティ博士号取得。 インテルの元ソフトウェア・エンジニアで、分散型システム、
+   コンテンツ保護、ハードウェア、ビデオ・アクセラレーション、ネットワーク・ビデオストリーミング、グラフィック・ドライバーなどの
+   専門知識を１２年間積み重ねた。暗号技術とブロックチェーンに強い関心を持っている。
+home.dustin.name.keep: Dustin Xie
+home.dustin.title.keep: ブロックチェーン・エンジニア
+home.fan.desc.keep: >-
+   Sequoia Capital Chinaの設立パートナーや、中国の年間ミダスリストの主要ベンチャー・キャピタルの一つとして
+   フォーブスのランキングに掲載されたDFJ ePlanet Venturesのディレクターを務めていた。
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: 無し
+home.guang.desc.keep: >-
+   IEEEフェロー。 カナダのワーテルロー大学教授。 暗号学、軽量暗号技術、自立分散型無線ネットワーク （アドホックネットワー）、
+   および無線自動識別などの分野の最高の科学者の一人。
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: 無し
+home.jack.desc.keep: >-
+   フォックスコン・テクノロジー・グループのHCM Capitalの共同創設者。
+   チェーンド・ファイナンス株式会社の共同創設者兼エグゼクティブ・ディレクター。
+   フォックスコンの創設者兼エグゼクティブ・ディレクター、Abraの取締役会長
+home.jack.name.keep: Jack Lee
+home.jack.title.keep: 無し
+home.jing.desc.keep: >-
+   Sparkland Capitalの設立パートナーとして、ブロックチェーン、セキュリティ、IoTなど最先端技術に焦点を当てた４０件以上の投資とイノベーションを先導してきた。多数の企業の取締役を務める。 スタートアップや投資やエコシステム構築に豊富な経験がある。
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: 共同設立者
+home.larry.desc.keep: >-
+   デジタルオペレーションを専門とするOliver Wymanの経営コンサルタント。 マサチューセッツ工科大学で専攻の金融・経済学と副専攻の視覚芸術＆デザイン学にて複数学士号取得。ブロックチェーンとIoTに強い関心を持っている。
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: 成長＆コミュニティー
+home.monika.desc.keep: >-
+    サイバー・セキュリティー、プライバシー、ネットワーキング、最新の各種テクノロジーに関する造詣の深いテクノロジー・コミュニケーションの専門家
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: コミュニケーション
+home.nick.desc.keep: >-
+  南加州大学にてコンピューターサイエンス修士号取得。ウィスコンシン・マジソン大学にて学士号取得。ウェブ開発
+home.nick.name.keep: Nick Chen
+home.nick.title.keep:フルスタック研修生
+home.paddy.desc.keep: >-
+  マイクロソフトにて分散型システム専門の元シニア・ソフトウェア・エンジニア。オープンソースプロジェクトへの積極的な貢献者。
+  イェール大学にてコンピュータサイエンス修士号取得。
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: 分散型システム
+home.powered-by: プライバシー重視型のブロックチェーン
+home.qevan.desc.keep: >-
+  シンガポール国立大学にて機械学習とコンピュータビジョンの博士号取得。
+  Facebookの元エンジニアリング・マネージャー兼研究科学者
+  ハッカー。 スタートアップへの投資家兼アドバイザー。20以上の出版物や特許がある。
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: 共同設立者
+home.raullen.desc.keep: >-
+  ウォータールー大学にて暗号学の博士号取得した研究科学者。ウーバーの暗号研究開発部の元主任やグーグルの元セキュリティー・エンジニア。暗号技術とブロックチェーンに8年以上携わってきた。
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: 共同設立者
+home.section.advisors: IoTeX.アドバイザー
+home.section.arch: IoTeX.アーキテクチャー
+home.section.innovations: IoTeX.イノベーション
+home.section.investors: IoTeX.投資者
+home.section.partners: IoTeX.戦略的パートナー
+home.section.roadmap: IoTeX.ロードマップ
+home.section.team: IoTeX.チーム
+home.section.teamfrom: IoTeX.チーム.経歴
+home.section.useceses: IoTeX.活用事例
+home.site.description: >-
+  自動拡張性や、伸張性があり、プライバシー重視型ブロックチェーンを備えたIoTのための非中央集権型ネットワーク
+home.slogan: 現実の世界をブロックごとに繋いでいく
+home.vedaad.desc.keep: >-
+   カリフォルニア大学バークレー校の学生でEECSと応用数学を学んでいる。 同校の暗号経済学チームに関するブロックチェーン研究者
+home.vedaad.name.keep: Vedaad Shakib
+home.vedaad.title.keep: ブロックチェーン工学の研修生
+home.vincent.desc.keep: >-
+   ウォータールー大学のコンピュータサイエンス専攻。 セキュリティとブロックチェーン
+   に強い関心を持っている。
+home.vincent.name.keep: Vincent Vuong
+home.vincent.title.keep: ソフトウェア・エンジニアの研修生
+home.xinxin.desc.keep: >-
+   ウォータールー大学にて暗号学博士号取得。元ボッシュ研究所の上級リサーチ・エンジニア。 
+   情報セキュリティと暗号に関する14年の研究と産業界での経験。
+   40以上の出版物や特許がある。
+home.xinxin.name.keep: Xinxin Fan
+home.xinxin.title.keep:暗号技術主任
+home.zhefeng.desc.keep: >-
+   カリフォルニア大学サンディエゴ校コンピュータサイエンスにて修士号取得、ウィスコンシン大学マディソン校にて数学とコンピューターサイエンスの学士号取得。ブロックチェーン技術、機械学習、IoTに強い関心を持っている。
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: ブロックチェーンのエンジニア
+stonevan.twitter: >-
+  IoTeXの最初のテストネットのプレビュー版のリリースを祝ったら、無料で１００ポイントをゲットしました! あなたも@iotex_ioでゲットしよう！
+subscribe.btn: 会員登録する
+subscribe.desc: IoTeXの最新の進捗状況やイベント情報など 
+subscribe.title: 最新情報のご案内
+testnet-preview.home-title: テストネットのプレビュー版(StoneVan)が ＿にリリースされます。will be released on
+testnet-preview.released-event-title: 私たちのテストネットのプレビュー版がリリースされたました！
+testnet-preview.released-title: テストネットのプレビュー版が＿にリリースされました
+topbar.blog: ブログ
+topbar.careers: 採用
+topbar.charity: チャリティー
+topbar.faq: よくある質問
+topbar.home: ホーム
+topbar.white-paper: ホワイト・ペーパー
+whitepaper.button.next: 次へ
+whitepaper.button.previous: 前へ
+auth.telegram.invalid_hash: テレグラムを使って入力できない場合は、私たちのコミュニティーの管理人に連絡してください。 
+auth.enter_phone_number: 電話番号を入力する
+auth.phone_number: 電話番号
+auth.next: 次へ
+auth.login: ログイン
+auth.or_continue_with_phone_number: あるいは電話番号を使って続行する
+auth.invalid_request: 入力が無効です
+auth.invalid_phone_number: 電話番号が無効です
+auth.cannot_send_sms: この電話番号へSMSを送ることができません
+auth.unsupported_country_code: 国名コードがサポートされていません
+auth.invalid_v_code: コードが無効です
+auth.expired_v_code: 検証コードが時間切れとなりました
+auth.verification_code: 検証コード
+auth.enter_verification_code: >-
+  あなたの電話へ送られた６桁の検証コードを入力してください
+  <strong>%s</strong>
+geetest.loading_captcha: キャプチャをローディング中...
+geetest.incorrect_captcha: あなたがロボットではないことを実証してください.
+next: 次へ
+phone_number: 電話番号
+
+enter_phone_number: 電話番号を入力
+telegram_account_id: テレグラムのアカウントID
+wechat_account_id: WeChat
+phone: 電話
+receive_reward_points:受け取る
+send_reward_points:送る
+redeem_reward_points:引き換え
+reward_points_history:履歴
+title_receive_points: さらにポイントを請求するためにコードを入力する
+bar_receive_points: 請求
+bar_success_receive_points: 請求
+msg_receive_points: msg_receive_points
+title_send_points:送りたいポイント数を入力する
+bar_send_points: コードを生成する
+bar_success_send_points: 生成する
+title_redeem_points: IOTXと引き換えたいポイント数を入力する
+bar_redeem_points: 申込書を提出する
+barSuccessMsg: 申込書を提出する
+eth_address: ETHアドレス
+
